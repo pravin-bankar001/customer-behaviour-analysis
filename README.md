@@ -55,7 +55,12 @@ The project covers the complete data pipeline:
 ---
 
 ## 📷 Dashboard Preview
-(Add your Power BI screenshots here)
+
+**Reveune Home Page**
+![customer-behavior-revenue.jpg](customer-behavior-revenue.jpg)
+
+**Best VS Worst Page**
+![customer-behavior-best-worst,jpg](customer-behavior-best-worst,jpg)
 
 ---
 
