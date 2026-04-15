@@ -68,4 +68,4 @@ The project covers the complete data pipeline:
 ---
 
 ## 🔗 Connect with Me
-([Visit: ](https://www.linkedin.com/in/pravin-bankar/))
+([Visit : LinkedIn Profile](https://www.linkedin.com/in/pravin-bankar/))
