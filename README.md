@@ -60,7 +60,7 @@ The project covers the complete data pipeline:
 ![customer-behavior-revenue.jpg](customer-behavior-revenue.jpg)
 
 **Best VS Worst Page**
-![customer-behavior-best-worst,jpg](customer-behavior-best-worst,jpg)
+![customer-behavior-best-worst.jpg](customer-behavior-best-worst,jpg)
 
 ---
 
